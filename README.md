@@ -165,6 +165,8 @@ collin = {
 | Titulo | Institucion | Año |
 |--------|-------------|-----|
 | 🎓 Pregrado en Ingenieria Mecatronica | Pontificia Universidad Javeriana | 2025 |
+| 🔗 Model Context Protocol: Advanced Topics | Anthropic | 2026 |
+| 🔗 Introduction to Model Context Protocol | Anthropic | 2026 |
 | 🤖 Certificacion en RPA | PIX Robotics | 2025 |
 | 🐍 Crash Course on Python | Coursera | 2025 |
 | ⚡ Agile Explorer | IBM SkillsBuild | 2025 |
