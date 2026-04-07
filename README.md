@@ -191,4 +191,4 @@ Sistema IoT de caneca inteligente con **clasificación de residuos por IA** y si
 
 ---
 
-*"La ingeniería no es solo construir cosas — es e
+*"La ingeniería es innovar, diseñar e implementar, pero tambien soñar para crear"*
