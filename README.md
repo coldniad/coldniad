@@ -37,8 +37,8 @@
 collin = {
     "rol":        "Líder de Ingeniería e Implementación Tecnológica @ All Star Colombia S.A.S.",
     "formación":  "Ing. Mecatrónica — Pontificia Universidad Javeriana (Tesis Laureada · 2025)",
-    "building":   ["StarGPT — B2B AI Agents para PYMEs colombianas",
-                   "Openclaw — Gateway de IA self-hosted con MCP"],
+    "building":   ["NetBin Solution",
+                   "HET Simulation Tool"],
     "enfoque":    ["AI Agents", "RPA", "Automatización", "Full Stack", "Cloud", "IoT"],
     "filosofia":  "No me defino por una sola especialidad — resuelvo problemas complejos.",
     "lema":       "Ingeniería con propósito, precisión y carácter 🚀",
